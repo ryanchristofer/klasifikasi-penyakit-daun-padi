@@ -16,3 +16,4 @@ Algoritma yang digunakan dalam proyek ini adalah KNN (K-Nearest Neighbor)
 4. KNN
 
 # dataset
+https://shorturl.at/dowL7
